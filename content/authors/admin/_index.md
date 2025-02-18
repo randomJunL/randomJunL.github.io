@@ -48,10 +48,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  Fate and transport of environmental contaminants
-  Wastewater treatment and management
-  Agricultural system and land use analysis
-  Machine learning application in environmental engineering
+  - Fate and transport of environmental contaminants
+  - Wastewater treatment and management
+  - Agricultural system and land use analysis
+  - Machine learning application in environmental engineering
 
 education:
   - area: PhD Artificial Intelligence
