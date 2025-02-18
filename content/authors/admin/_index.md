@@ -32,18 +32,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:rl25@nmsu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/runwei-li-7149ab198/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=ppJTYksAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
@@ -54,8 +54,8 @@ interests:
   - Machine learning application in environmental engineering
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Ph.D. Environmental Engineering
+    institution: Florida State University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -63,10 +63,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. Civil Engineering
+    institution: University at Buffalo
+    date_start: 2014-01-01
+    date_end: 2026-12-31
     summary: |
       GPA: 3.8/4.0
 
@@ -74,10 +74,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. Civil Engineering
+    institution: Wuhan University
+    date_start: 2014-01-01
+    date_end: 2026-12-31
     summary: |
       GPA: 3.4/4.0
       
